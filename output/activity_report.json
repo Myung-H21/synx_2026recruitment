@@ -1,0 +1,17 @@
+{
+    "valid_count": 4,
+    "invalid_count": 4,
+    "average_interest_score": 86.25,
+    "top_activity": {
+        "score": 92.0,
+        "activities": [
+            "AI Workshop",
+            "Open Source Meetup"
+        ]
+    },
+    "category_counts": {
+        "art": 1,
+        "sports": 1,
+        "technology": 2
+    }
+}
